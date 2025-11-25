@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-<h3>Name: Mohamed Abdullah A
-<h3>Register Number: 212224020029
+<h3>Name: 
+<h3>Register Number: 
   
 ### AIM :
   To solve Implementation of Classical Planning Algorithm using python
